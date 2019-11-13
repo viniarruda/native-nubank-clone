@@ -1,6 +1,6 @@
 # native-nubank-clone
 
-This project is a clone to Nubank app
+This project is a clone from Nubank app
 
 Using:
 
