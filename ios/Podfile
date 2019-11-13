@@ -37,6 +37,8 @@ target 'NubankClone' do
 
   pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
 
+  pod 'RNSVG', :path => '../node_modules/react-native-svg'
+
   target 'NubankCloneTests' do
     inherit! :search_paths
     # Pods for testing
